@@ -19,13 +19,6 @@ Me chamo André Hemerly Leal, tenho 19 anos e sou natural de Cachoeiro de Itapem
             src="https://custom-icon-badges.demolab.com/github/followers/hemerlyandree?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/andrehemerly/">
-        <img 
-            alt="Linkedln" 
-            title="Meu Linkedln" 
-            src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/small/colored/linkedin.svg"
-        />
-    </a>
 </p>
 
 ---
