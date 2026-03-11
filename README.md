@@ -1,6 +1,6 @@
 # 🧑🏼‍💻 André Hemerly
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo André Hemerly Leal, tenho 19 anos e sou natural de Cachoeiro de Itapemirim. Concluí o ensino médio no Sesi, com o curso técnico em Redes de Computadores. Atualmente, estou cursando Sistemas de Informação na Uvv. Sou apaixonado por tecnologia, redes e soluções.
 
