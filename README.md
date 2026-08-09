@@ -1,133 +1,186 @@
-# 🧑🏼‍💻 André Hemerly
+<div align="center">
 
-**`Desenvolvedor FullStack`**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=SOPHIA%20HONORATO&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-Me chamo André Hemerly Leal, tenho 19 anos e sou natural de Cachoeiro de Itapemirim. Concluí o ensino médio no Sesi, com o curso técnico em Redes de Computadores. Atualmente, estou cursando Sistemas de Informação no Ifes. Sou apaixonado por tecnologia, redes e soluções.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;FULL+STACK+DEVELOPER;REACT+%7C+JAVA+%7C+PYTHON;AI+%7C+SOFTWARE+ENGINEERING;WELCOME+TO+MY+CODE+UNIVERSE"/>
 
-<p align="left">
-    <a href="https://github.com/hemerlyandree?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/hemerlyandree?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/hemerlyandree?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/hemerlyandree?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 SOPHIA AI CORE
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+```bash
+╭────────────────────────────╮
+│     SOPHIA SYSTEM v2.0     │
+╰────────────────────────────╯
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+Initializing system...
 
-<img 
-    align="left" 
-    alt="MySql" 
-    title="MySql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
+████████████████████ 100%
 
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"
-/>
+✔ Developer detected
+✔ Creativity enabled
+✔ Code engine activated
+✔ Projects loaded
 
-<br/>
-<br/>
+STATUS: ONLINE 🚀
+```
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=hemerlyandree&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />   
-  
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemerlyandree&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 👩‍💻 About Me
 
-</p>
+```javascript
+const Sophia = {
+
+ name: "Sophia Honorato",
+
+ role: "Full Stack Developer",
+
+ location: "São Paulo, Brazil 🇧🇷",
+
+ stack: {
+    frontend: [
+      "React",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS"
+    ],
+
+    backend: [
+      "Java",
+      "Node.js",
+      "Python"
+    ],
+
+    database: [
+      "MySQL",
+      "Supabase"
+    ]
+ },
+
+ tools: [
+   "Git",
+   "GitHub",
+   "Figma",
+   "VS Code"
+ ],
+
+ passion:
+ "Building digital experiences 🚀"
+
+}
+```
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,python,mysql,supabase,git,github,figma,vscode,docker&perline=8"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| 🚀 Project | 💡 Description |
+|---|---|
+| 💄 Divine | Beauty E-commerce |
+| ⚡ Core Sync | Business Dashboard |
+| 🌿 Nutre Care | Eco Makeup Brand |
+| 🌸 Mosaico Rosa | AI + Lovable Project |
+| 🌊 Mar & Brisa | Modern Landing Page |
+| 🎵 Projeto Music | Music Experience |
+| 🌍 Milton Santos | Educational Website |
+
+---
+
+## 🧠 Current Mission
+
+```bash
+> Loading objectives...
+
+[██████████] React Development
+
+[████████░░] Backend Skills
+
+[███████░░░] Artificial Intelligence
+
+[██████████] Creating Projects
+
+STATUS:
+Never stop learning 🚀
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sophiahonopato&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophiahonopato&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sophiahonopato&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sophiahonopato&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sophiahonopato/sophiahonopato/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 🌎 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/sophiahonopato">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 "Turning ideas into code and code into experiences."
+
+<img src="https://komarev.com/ghpvc/?username=sophiahonopato&style=for-the-badge&color=8A2BE2"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:6d28d9,100:a855f7"/>
