@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/hemerlyandree/hemerlyandree/main/banner.svg"/>
+<img width="100%" src="https://github.com/hemerlyandree/hemerlyandree/blob/main/banner.svg"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;FULL+STACK+DEVELOPER;REACT+%7C+NODE.JS+%7C+PYTHON;AI+%7C+SOFTWARE+ENGINEERING;WELCOME+TO+MY+CODE+UNIVERSE"/>
 </div>
 
