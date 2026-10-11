@@ -6,7 +6,7 @@
 ---
 
 ## 🤖 ANDRÉ AI CORE
-
+```bash
 ╭────────────────────────────╮
 │      ANDRÉ SYSTEM v2.0     │
 ╰────────────────────────────╯
@@ -17,10 +17,12 @@ Initializing system...
 ✔ Code engine activated
 ✔ Projects loaded
 STATUS: ONLINE 🚀
+```
+
 ---
 
 ## 👨‍💻 About Me
-
+```javascript
 const Andre = {
  name: "André Hemerly",
  role: "Full Stack Developer",
@@ -51,6 +53,8 @@ const Andre = {
  passion:
  "Building digital experiences 🚀"
 }
+```
+
 ---
 
 ## ⚡ Tech Stack
@@ -71,7 +75,7 @@ const Andre = {
 ---
 
 ## 🧠 Current Mission
-
+```bash
 > Loading objectives...
 [██████████] React Development
 [████████░░] Backend Skills
@@ -79,6 +83,8 @@ const Andre = {
 [██████████] Creating Projects
 STATUS:
 Never stop learning 🚀
+```
+
 ---
 
 ## 📊 GitHub Analytics
@@ -94,6 +100,7 @@ Never stop learning 🚀
 </div>
 
 ---
+</div>
 
 ---
 
